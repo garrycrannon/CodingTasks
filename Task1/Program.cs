@@ -55,12 +55,5 @@ namespace DailyCoding1
             }
             Console.ReadLine();
         }
-
-        static int UniqueWays(int steps, int staircase)
-        {
-
-
-            return 0;
-        }
     }
 }
